@@ -35,7 +35,6 @@ Atualmente estou construindo minha base em Ciência de Dados através de estudos
 * Estruturas de Dados
 * Análise Exploratória de Dados (EDA)
 * Visualização de Dados
-* Machine Learning
 
 ---
 
@@ -65,7 +64,7 @@ Meu objetivo é desenvolver uma formação sólida em Ciência de Dados, aplican
 
 🐙 GitHub: https://github.com/LuisFernando-dso
 
-🔗 LinkedIn: Adicionar perfil
+🔗 LinkedIn: https://www.linkedin.com/in/lu%C3%ADs-fernando-oliveira-5407563b6/
 
 ---
 
